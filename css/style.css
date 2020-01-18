@@ -704,7 +704,7 @@ img, video, audio, iframe, object {
 LINK STYLING
 ***************/
 a {
-  color: seagreen; }
+  color: rgb(88, 81, 146); }
   a:hover {
     color: #1b5233; }
 
