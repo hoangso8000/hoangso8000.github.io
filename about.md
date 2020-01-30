@@ -5,7 +5,7 @@ title: About Me
 
 <div class="post">
 	<h1 class="pageTitle">About Me</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
+	<img src="{{ '/assets/img/keyboard.jpg' | prepend: site.baseurl }}" alt="">
 	<p class="intro">I'm a student studying at HUST with major in CS</p>
 	<p>This blog was created for my wish to spread all my thought, feeling, some stuff in life or some overtalked story</p>
 	<h2>Features</h2>
