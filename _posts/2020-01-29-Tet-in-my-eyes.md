@@ -13,6 +13,7 @@ Tết ([tet˧˥] or [təːt˧˥]), Vietnamese New Year, Vietnamese Lunar New Yea
 * Less Houseword cuz my mother had done some 
 * so cold and we had sufferd a rock rain on the 30th night 
 * No Gaming like the last year (not wasted time)
+
 ### HOW I SEE THIS HOLIDAY 
 For me Tet is always confused time because it cause my schedule messed up. After a many conflict in my father-family,
 Tet is troublesome like we cant talk with some cousins anymore. They came and we just greeted and back. I understand my parent's feeling. I don't hate that cousins for what they had done as well as my grandmother. However, everytime I recall that story, I lose all of my concentration. That escalated for years now and this year maybe at the peak. I believed that we will on that peak for long time. Damn it! 
